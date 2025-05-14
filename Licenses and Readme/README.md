@@ -15,3 +15,14 @@ The original program was made in under a day by **FractalScripts**.
 **Tip:** If you want to save your generated page as a HTML file, you can paste the raw HTML into a text file and rename the file extension from `.txt` to `.html`. Alternatively you can also save it from your web browser with `[Ctrl + S]`.
 
 **Tip 2:** Try using _"Inspect"_, _"View Code"_, or a similar tool in your web browser to tinker with the values and see them change in real time! You would need to know where the values are, but it shouldn't be too hard. After that you can come back and use `[enc]` to encode your modified HTML into a new link!
+
+---
+
+# How to download and use
+(Unfortunately its Windows-only right now.)
+
+Either download the `.zip` file and unzip it, or alternatively download the "Executable" folder and everything inside of it. After that you'll want to run `TxtGen.exe`. Windows SmartScreen might show a warning, and that's because it's unsigned software. You'll want to click on "More Info" and "Run anyway".
+
+Please note that this is early development software and extremely basic, since I made it in my free time as a private utility to solve a tiny problem that didn't even end up getting really solved. This is a passion project and there is a big chance I will totally forget it and move on.
+
+**Optional:** If you have python installed (In the start menu search "Python" and see if an app appears called "Python x.xx" or something similar.) you can download `TxtGen.py` from the "Source" folder and run that using Python. This is a better choice if you're just testing it out and you'll probably forget about it as it is lighter and doesn't bundle the whole of Python inside.
