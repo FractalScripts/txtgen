@@ -31,7 +31,7 @@ The original program was made in under a day by **FractalScripts**.
 # How to download and use
 (Unfortunately its Windows-only right now.)
 
-Go to the latest release and download the `.zip` file and unzip it. After that you'll want to run `TxtGen.exe`. Windows SmartScreen might show a warning, and that's because it's unsigned software. You'll want to click on "More Info" and "Run anyway".
+Go to the [latest release](https://github.com/FractalScripts/txtgen/releases) and download the `.zip` file and unzip it. After that you'll want to run `TxtGen.exe`. Windows SmartScreen might show a warning, and that's because it's unsigned software. You'll want to click on "More Info" and "Run anyway".
 
 Please note that this is early development software and extremely basic, since I made it in my free time as a private utility to solve a tiny problem that didn't even end up getting really solved. This is a passion project and there is a big chance I will totally forget it and move on.
 
