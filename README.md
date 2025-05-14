@@ -1,7 +1,8 @@
 # What is TxtGen?
 ## TxtGen is one of the simplist programs out there, a terminal program that generates a page such as this one:
 (Copy and Paste into your browser)
-```data:text/html,%3Cbody%20style%3D%22margin%3A0%3Bdisplay%3Aflex%3Bjustify-content%3Acenter%3Balign-items%3Acenter%3Bheight%3A100vh%3Bbackground-color%3Argb%2820%2C20%2C20%29%3B%22%3E%3Cdiv%20style%3D%22font-size%3A15vw%3Btext-align%3Acenter%3Bcolor%3A%23ffffff%3Bfont-family%3Arockwell%3B%22%3ETxtGen%3C%2Fdiv%3E%3C%2Fbody%3E```
+
+    data:text/html,%3Cbody%20style%3D%22margin%3A0%3Bdisplay%3Aflex%3Bjustify-content%3Acenter%3Balign-items%3Acenter%3Bheight%3A100vh%3Bbackground-color%3Argb%2820%2C20%2C20%29%3B%22%3E%3Cdiv%20style%3D%22font-size%3A15vw%3Btext-align%3Acenter%3Bcolor%3A%23ffffff%3Bfont-family%3Arockwell%3B%22%3ETxtGen%3C%2Fdiv%3E%3C%2Fbody%3E
 ## From your own text and settings.
 # It's basically just a glorified HTML preset.
 
